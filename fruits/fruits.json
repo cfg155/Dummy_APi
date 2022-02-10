@@ -47,12 +47,12 @@
     {
         "name":"corn",
         "type":"vegetables",
-        "fruit_img":"https://raw.githubusercontent.com/cfg155/Dummy_API/development/fruits/fruits/assets/corn.png"    
+        "fruit_img":"https://raw.githubusercontent.com/cfg155/Dummy_API/development/fruits/assets/corn.png"    
     },
     {
         "name":"cucumber",
         "fruit":"vegetables",
-        "fruit_img":"https://raw.githubusercontent.com/cfg155/Dummy_API/development/fruits/fruits/assets/cucumber.png"    
+        "fruit_img":"https://raw.githubusercontent.com/cfg155/Dummy_API/development/fruits/assets/cucumber.png"    
     },
     {
         "name":"garlic",
