@@ -2,116 +2,116 @@
     {
         "name":"avocado",
         "type":"fruit",
-        "fruit_img":"assets/avocado.png"
+        "fruit_img":"https://github.com/cfg155/Dummy_APi/blob/development/fruits/assets/avocado.png"
     },
     {
         "name":"banana",
         "type":"fruit",
-        "fruit_img":"assets/banana.png"    
+        "fruit_img":"https://github.com/cfg155/Dummy_APi/blob/development/fruits/assets/banana.png"    
     },
     {
         "name":"beetroot",
         "fruit":"vegetables",
-        "fruit_img":"assets/beetroot.png"    
+        "fruit_img":"https://github.com/cfg155/Dummy_APi/blob/development/fruits/assets/beetroot.png"    
     },
     {
         "name":"blackberry",
         "fruit":"fruit",
-        "fruit_img":"assets/blackberry.png"    
+        "fruit_img":"https://github.com/cfg155/Dummy_APi/blob/development/fruits/assets/blackberry.png"    
     },
     {
         "name":"cabbage",
         "type":"vegetables",
-        "fruit_img":"assets/cabbage.png"    
+        "fruit_img":"https://github.com/cfg155/Dummy_APi/blob/development/fruits/assets/cabbage.png"    
     },
     {
         "name":"carrot",
         "type":"vegetables",
-        "fruit_img":"assets/carrot.png"    
+        "fruit_img":"https://github.com/cfg155/Dummy_APi/blob/development/fruits/assets/carrot.png"    
     },
     {
         "name":"cauliflower",
         "fruit":"vegetables",
-        "fruit_img":"assets/cauliflower.png"    
+        "fruit_img":"https://github.com/cfg155/Dummy_APi/blob/development/fruits/assets/cauliflower.png"    
     },
     {
         "name":"celery",
         "fruit":"vegetables",
-        "fruit_img":"assets/celery.png"    
+        "fruit_img":"https://github.com/cfg155/Dummy_APi/blob/development/fruits/assets/celery.png"    
     },
     {
         "name":"cherry",
         "type":"fruit",
-        "fruit_img":"assets/cherry.png"    
+        "fruit_img":"https://github.com/cfg155/Dummy_APi/blob/development/fruits/assets/cherry.png"    
     },
     {
         "name":"corn",
         "type":"vegetables",
-        "fruit_img":"assets/corn.png"    
+        "fruit_img":"https://github.com/cfg155/Dummy_APi/blob/development/fruits/assets/corn.png"    
     },
     {
         "name":"cucumber",
         "fruit":"vegetables",
-        "fruit_img":"assets/cucumber.png"    
+        "fruit_img":"https://github.com/cfg155/Dummy_APi/blob/development/fruits/assets/cucumber.png"    
     },
     {
         "name":"garlic",
         "fruit":"vegetables",
-        "fruit_img":"assets/garlic.png"    
+        "fruit_img":"https://github.com/cfg155/Dummy_APi/blob/development/fruits/assets/garlic.png"    
     },
     {
         "name":"kiwi",
         "type":"fruit",
-        "fruit_img":"assets/kiwi.png"    
+        "fruit_img":"https://github.com/cfg155/Dummy_APi/blob/development/fruits/assets/kiwi.png"    
     },
     {
         "name":"lemon",
         "type":"fruit",
-        "fruit_img":"assets/lemon.png"    
+        "fruit_img":"https://github.com/cfg155/Dummy_APi/blob/development/fruits/assets/lemon.png"    
     },
     {
         "name":"mustard",
         "fruit":"vegetables",
-        "fruit_img":"assets/mustard.png"    
+        "fruit_img":"https://github.com/cfg155/Dummy_APi/blob/development/fruits/assets/mustard.png"    
     },
     {
         "name":"onion",
         "fruit":"vegetables",
-        "fruit_img":"assets/onion.png"    
+        "fruit_img":"https://github.com/cfg155/Dummy_APi/blob/development/fruits/assets/onion.png"    
     },
     {
         "name":"peanut",
         "type":"fruit",
-        "fruit_img":"assets/peanut.png"    
+        "fruit_img":"https://github.com/cfg155/Dummy_APi/blob/development/fruits/assets/peanut.png"    
     },
     {
         "name":"peppers",
         "type":"fruit",
-        "fruit_img":"assets/peppers.png"    
+        "fruit_img":"https://github.com/cfg155/Dummy_APi/blob/development/fruits/assets/peppers.png"    
     },
     {
         "name":"plum",
         "fruit":"fruit",
-        "fruit_img":"assets/plum.png"    
+        "fruit_img":"https://github.com/cfg155/Dummy_APi/blob/development/fruits/assets/plum.png"    
     },
     {
         "name":"spinach",
         "fruit":"vegetables",
-        "fruit_img":"assets/spinach.png"   
+        "fruit_img":"https://github.com/cfg155/Dummy_APi/blob/development/fruits/assets/spinach.png"   
     },
     {
         "name":"starfruit",
         "type":"fruit",
-        "fruit_img":"assets/starfruit.png"    
+        "fruit_img":"https://github.com/cfg155/Dummy_APi/blob/development/fruits/assets/starfruit.png"    
     },
     {
         "name":"strawberry",
         "type":"fruit",
-        "fruit_img":"assets/strawberry.png"    
+        "fruit_img":"https://github.com/cfg155/Dummy_APi/blob/development/fruits/assets/strawberry.png"    
     },
     {
         "name":"watermelon",
         "fruit":"fruit",
-        "fruit_img":"assets/watermelon.png"    
+        "fruit_img":"https://github.com/cfg155/Dummy_APi/blob/development/fruits/assets/watermelon.png"    
     }
 ]
