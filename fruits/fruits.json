@@ -14,13 +14,13 @@
     {
         "id":2,
         "name":"beetroot",
-        "fruit":"vegetables",
+        "type":"vegetables",
         "fruit_img":"https://raw.githubusercontent.com/cfg155/Dummy_API/development/fruits/assets/beetroot.png"    
     },
     {
         "id":3,
         "name":"blackberry",
-        "fruit":"fruit",
+        "type":"fruit",
         "fruit_img":"https://raw.githubusercontent.com/cfg155/Dummy_API/development/fruits/assets/blackberry.png"    
     },
     {
@@ -38,13 +38,13 @@
     {
         "id":6,
         "name":"cauliflower",
-        "fruit":"vegetables",
+        "type":"vegetables",
         "fruit_img":"https://raw.githubusercontent.com/cfg155/Dummy_API/development/fruits/assets/cauliflower.png"    
     },
     {
         "id":7,
         "name":"celery",
-        "fruit":"vegetables",
+        "type":"vegetables",
         "fruit_img":"https://raw.githubusercontent.com/cfg155/Dummy_API/development/fruits/assets/celery.png"    
     },
     {
@@ -62,13 +62,13 @@
     {
         "id":10,
         "name":"cucumber",
-        "fruit":"vegetables",
+        "type":"vegetables",
         "fruit_img":"https://raw.githubusercontent.com/cfg155/Dummy_API/development/fruits/assets/cucumber.png"    
     },
     {
         "id":11,
         "name":"garlic",
-        "fruit":"vegetables",
+        "type":"vegetables",
         "fruit_img":"https://raw.githubusercontent.com/cfg155/Dummy_API/development/fruits/assets/garlic.png"    
     },
     {
@@ -86,13 +86,13 @@
     {
         "id":14,
         "name":"mustard",
-        "fruit":"vegetables",
+        "type":"vegetables",
         "fruit_img":"https://raw.githubusercontent.com/cfg155/Dummy_API/development/fruits/assets/mustard.png"    
     },
     {
         "id":15,
         "name":"onion",
-        "fruit":"vegetables",
+        "type":"vegetables",
         "fruit_img":"https://raw.githubusercontent.com/cfg155/Dummy_API/development/fruits/assets/onion.png"    
     },
     {
@@ -110,13 +110,13 @@
     {
         "id":18,
         "name":"plum",
-        "fruit":"fruit",
+        "type":"fruit",
         "fruit_img":"https://raw.githubusercontent.com/cfg155/Dummy_API/development/fruits/assets/plum.png"    
     },
     {
         "id":19,
         "name":"spinach",
-        "fruit":"vegetables",
+        "type":"vegetables",
         "fruit_img":"https://raw.githubusercontent.com/cfg155/Dummy_API/development/fruits/assets/spinach.png"   
     },
     {
@@ -134,7 +134,7 @@
     {
         "id":22,
         "name":"watermelon",
-        "fruit":"fruit",
+        "type":"fruit",
         "fruit_img":"https://raw.githubusercontent.com/cfg155/Dummy_API/development/fruits/assets/watermelon.png"    
     }
 ]
